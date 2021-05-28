@@ -7,3 +7,9 @@ Get the gingerbread to the flag while avoiding the evil candy. Clear all three l
 ## Controls
 
 Use the arrows to run and space to jump.
+
+## Screenshots
+
+![Title screen](https://raw.githubusercontent.com/madeline1-glitch/save-candy-land/main/candyoriginal.png)
+
+![Win screen](https://raw.githubusercontent.com/madeline1-glitch/save-candy-land/main/win.png)
